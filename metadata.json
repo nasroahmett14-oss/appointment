@@ -1,0 +1,6 @@
+{
+  "name": "Clinic Appointment System",
+  "description": "A modern, responsive clinic management and appointment booking system frontend.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
